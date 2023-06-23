@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="6d2fe0d697a721105502737e6253af78" extends="task" label="NeedIt " max_length="40" name="x_58872_needit_needit" type="collection"/>
+    <element audit="true" db_object_id="6d2fe0d697a721105502737e6253af78" extends="task" label="NeedIt " max_length="40" name="x_58872_needit_needit" type="collection"/>
 </database>
